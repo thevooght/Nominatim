@@ -75,11 +75,6 @@
         "bridleway" : "main,with_name",
         "track" : "main,with_name",
         "byway": "main,with_name",
-        "motorway_link" : "main,with_name",
-        "trunk_link" : "main,with_name",
-        "primary_link" : "main,with_name",
-        "secondary_link" : "main,with_name",
-        "tertiary_link" : "main,with_name"
     }
 }
 ]
